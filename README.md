@@ -1,2 +1,4 @@
 # Econ-Suppermarket-Analysis-
-Hi! This is the shared project for file 38. We want to analyis supper market price data. There are P_0wn prices of the own suppermarket data, binary of sales and other markets prices with vars p-qualig, p-qualimo, p-qualis. This is a summary and interpretion of the data.
+# This is a summary and interpretion of price data of p_own prices ( suppermarket ), binary if there was a sale (), and other market prices with  (p-qualig, p-qualimo, p-qualis).  
+# Title: Q38 Supper Market Analysis
+# Date: 25-10-25
